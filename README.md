@@ -7,7 +7,7 @@ This is a technical demonstrator of applying tints to create color effects on en
 
 The simplest example of tints is dealing with special effects when hit by elemental attacks, like fire. That is what this module will demonstate. Typically, an “I’m on fire!” reaction is created with a generic set of burning sprites shared by every model (think Final Fight or early versions of Street Fighter). Another common technique is to change the entity’s current colors to a pre-existing “Burn” palette and then adding some fire themed particle effects.
 
-The latter is far more dynamic and visually appealing, but tinting is even better! Here’s why.
+The latter is far more visually appealing, but tinting is even better! Here’s why.
 -	It’s a huge time saver. Set the tinting script up, get some particle effects going and you’re done. There’s no need to bother with making and keeping track of alternate palettes and attributes for special effects. The script takes care of everything automatically.
 -	The visual effect is far more dynamic. Instead of reverting to a static effect palette, the entity appears frozen, on fire, or whatever else while still retaining its unique look. If the entity was wearing a green shirt, they are still wearing a green shirt – just on fire.
 -	Tints are adjustable on the fly. You could have varying intensities of burn for example, or as is demonstrated in this module, a gradual effect based on time. The possibilities are endless.
