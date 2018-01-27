@@ -16,7 +16,7 @@ The latter is far more tenable and visually appealing, but Tinting is even bette
 
 ## Demo
 
-- 1.	Open the module and play as normal.
+ 1.	Open the module and play as normal.
   - 1.	To try out the freeze effect, pick Kula and use her Forward, Forward, Attack command. Leave an enemy frozen until the effect expires and you’ll notice they will visually “thaw out” over time.
   - 2.	To try out burn, choose Maxima and use Forward, Forward, Attack or Special.
 
